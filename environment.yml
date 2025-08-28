@@ -1,0 +1,9 @@
+name: ams-radar-2025-judging-dev
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - cartopy
+  - matplotlib
+  - pandas
+  - wordcloud
